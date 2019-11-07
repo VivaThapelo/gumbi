@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031718190417",
+    "firebase_url": "https://gumbi-243115.firebaseio.com",
+    "project_id": "gumbi-243115",
+    "storage_bucket": "gumbi-243115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031718190417:android:5283c7ac1555ada50ba770",
+        "android_client_info": {
+          "package_name": "com.thapelo.gumbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031718190417-62kc82m55mume5e0021odqel42vhccp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWF-QNbz5UvfUTKmbtcLY_CYmqgx4RRwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031718190417-62kc82m55mume5e0021odqel42vhccp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
